@@ -1,0 +1,46 @@
+
+## ⚙️ Manual Inputs
+
+The model requires a set of user-defined inputs to control forward projections and valuation assumptions.
+All manual input cells are **highlighted in blue** within the Excel model.
+
+### 🔹 Growth Assumptions
+
+* **Industry Growth Rate (Range)**
+  Used to guide forward revenue growth assumptions. Adjust based on sector outlook and macro conditions.
+
+---
+
+### 🔹 Investment Assumptions
+
+* **Capex Intensity** *(Capex / Revenue)*
+  Controls reinvestment needs of the business.
+  → Modify only if the company’s capital requirements differ from historical trends.
+
+---
+
+### 🔹 Cost of Capital (WACC Components)
+
+* **Risk-Free Rate**
+* **Equity Risk Premium (ERP)**
+* **Beta**
+* **WACC Adjustment**
+
+These inputs determine the discount rate used in valuation.
+→ Use WACC Adjustment to test sensitivity and scenario changes.
+
+---
+
+### 🔹 Terminal Assumption
+
+* **Terminal Growth Rate (g)**
+  Represents long-term steady-state growth beyond the forecast period.
+  → Should be conservative and typically aligned with long-term GDP growth.
+
+---
+
+### ⚠️ Notes
+
+* Default values are pre-filled based on reasonable assumptions.
+* Users should adjust inputs only when they have a strong view or supporting data.
+* Small changes in these inputs can significantly impact valuation outputs.
