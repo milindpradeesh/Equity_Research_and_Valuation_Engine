@@ -86,7 +86,7 @@ This model uses VBA to trigger a Python script. You need to configure file paths
 
 ### Step 1: Open VBA Editor
 - Press `ALT + F11`  
-- Open `Module28` → `Fetchv5`  
+- Open  `Fetch_Data`  
 
 ---
 
