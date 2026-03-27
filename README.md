@@ -173,16 +173,6 @@ Some assumptions are user-controlled (highlighted in **blue** in Excel):
 
 ---
 
-## 💡 Why This Project Stands Out
-
-- Not just analysis — **end-to-end automated system**  
-- Combines **finance + programming + automation**  
-- Handles **real-world financial data pipelines**  
-- Implements **forward-looking valuation logic**  
-- Designed like a **mini equity research tool used in practice**  
-
----
-
 ## ⚠️ Limitations
 
 - Works with **NASDAQ-listed tickers**  
